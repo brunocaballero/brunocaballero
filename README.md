@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunocaballero
 - 🚀 Software Engineer at MicroDoc!
-- ❤️‍🔥 Java on Embedded
-- ✨ Linux and virtual machine technlogies
+- 💓 Java on Embedded
+- ✨ Linux and virtual machine technologies
 - 📫 bruno.caballero@microdoc.com
